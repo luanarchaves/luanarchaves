@@ -13,6 +13,9 @@
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
-![Luana GitHub stats](https://github-readme-stats.vercel.app/api?username=luanarchaves&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanarchaves&hide_progress=true)
-<hr>
+
+![Luana GitHub stats](https://github-readme-stats.vercel.app/api?username=luanarchaves&show_icons=true&theme=dracula)     <img style="height: 300px;" src="https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/a3e47wjih6jh8ilxwxcz.jpg" alt="">
+     
+
+
