@@ -14,8 +14,5 @@
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
 ![Luana GitHub stats](https://github-readme-stats.vercel.app/api?username=luanarchaves&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanarchaves&layout=compact)
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanarchaves&hide_progress=true)
 <hr>
