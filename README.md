@@ -15,7 +15,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanarchaves&hide_progress=true)
 
-![Luana GitHub stats](https://github-readme-stats.vercel.app/api?username=luanarchaves&show_icons=true&theme=dracula)     <img style="height: 300px;" src="https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/a3e47wjih6jh8ilxwxcz.jpg" alt="">
-     
-
+![Luana GitHub stats](https://github-readme-stats.vercel.app/api?username=luanarchaves&show_icons=true&theme=dracula)    
 
