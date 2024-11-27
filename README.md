@@ -1,7 +1,7 @@
 <h1>Olá 👋</h1>
 
 <ul>
-  <li>💻 Cursando <strong>Desenvolvimento de Software Multiplataforma</strong></li>
+  <li>💻 Cursando <strong>Desenvolvimento de Software Multiplataforma - 1 Semestre</strong></li>
   <li>🎓 Formada em <strong>Técnico de Administração</strong></strong></li>
 </ul>
 
