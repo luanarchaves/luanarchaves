@@ -3,7 +3,8 @@
 Analise de Dados 
 
 <ul>
-  <li>💻 Cursando <strong>Desenvolvimento de Software Multiplataforma - 2° semestre</strong></li>
+  <li>💻 Estágiaria em Migração de Dados na <strong>Thomson Reuters</strong></li>
+  <li>📖 Cursando <strong>Desenvolvimento de Software Multiplataforma - 2° semestre</strong></li>
   <li>🎓 Formada em <strong>Técnico de Administração</strong></strong></li>
 </ul>
 
