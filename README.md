@@ -1,7 +1,5 @@
 <h1>Olá 👋</h1>
 
-Analise de Dados 
-
 <ul>
   <li>💻 Estágiaria em Migração de Dados na <strong>Thomson Reuters</strong></li>
   <li>📖 Cursando <strong>Desenvolvimento de Software Multiplataforma - 3° semestre</strong></li>
