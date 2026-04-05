@@ -28,7 +28,4 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanarchaves&layout=compact)
-
-![Luana GitHub stats](https://github-readme-stats.vercel.app/api?username=luanarchaves&show_icons=true&theme=dracula)    
-
+![Top Langs](https://github-used-languages.vercel.app/luanarchaves)
