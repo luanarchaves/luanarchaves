@@ -1,7 +1,6 @@
 <h1 align="center">Luana Rodrigues Chaves</h1>
 
 <p align="center">
-  <strong>Desenvolvedora em início de carreira</strong> · Estagiária em Migração de Dados na <strong>Thomson Reuters</strong><br>
   São Paulo, SP — Brasil
 </p>
 
@@ -9,11 +8,10 @@
 
 ## Sobre
 
-- 🗄️ No dia a dia, trabalho com **SQL Server**, **Oracle** e processos de **ETL/ELT**
-- ☕ Estudando **Java** e **Programação Orientada a Objetos**
-- 🐍 **Python** com **Pandas** e **NumPy** para análise de dados
-- 🌐 Desenvolvimento **back-end** e **APIs REST**
-- 📊 Vim da **Administração** — ajuda a entender a regra de negócio por trás do dado
+- 👩‍💻 Profissional no início da carreira
+- 💻 Estagiária em **Migração de Dados** na **Thomson Reuters**
+- 📖 Cursando **Desenvolvimento de Software Multiplataforma** — 5º semestre
+- 🎓 Formada em **Técnico de Administração**
 
 ---
 
@@ -67,15 +65,6 @@
 ![APIs REST](https://img.shields.io/badge/APIs%20REST-6C3483?style=for-the-badge)
 ![HTTP](https://img.shields.io/badge/HTTP-B7472A?style=for-the-badge)
 ![MVC](https://img.shields.io/badge/MVC-2E4053?style=for-the-badge)
-
----
-
-## Formação
-
-| | |
-|---|---|
-| **Desenvolvimento de Software Multiplataforma** | FATEC Itaquera · cursando, 5º semestre |
-| **Técnica em Administração** | concluído |
 
 ---
 
