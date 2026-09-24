@@ -9,11 +9,11 @@
 
 ## Sobre
 
-Trabalho com **migração de dados** na Thomson Reuters, onde lido no dia a dia com **SQL Server**, **Oracle** e processos de **ETL/ELT** — extrair dados de sistemas de origem, tratar as inconsistências e carregá-los no sistema de destino sem perder integridade.
-
-Em paralelo, curso **Desenvolvimento de Software Multiplataforma (5º semestre)** na FATEC Itaquera, onde venho construindo base em **Java** e **Programação Orientada a Objetos**, **Python** para análise de dados, e desenvolvimento **back-end** com APIs REST.
-
-Antes da tecnologia, me formei como **Técnica em Administração** — uma bagagem que ajuda bastante na hora de entender a regra de negócio por trás do dado.
+- 🗄️ No dia a dia, trabalho com **SQL Server**, **Oracle** e processos de **ETL/ELT**
+- ☕ Estudando **Java** e **Programação Orientada a Objetos**
+- 🐍 **Python** com **Pandas** e **NumPy** para análise de dados
+- 🌐 Desenvolvimento **back-end** e **APIs REST**
+- 📊 Vim da **Administração** — ajuda a entender a regra de negócio por trás do dado
 
 ---
 
@@ -26,7 +26,6 @@ Antes da tecnologia, me formei como **Técnica em Administração** — uma baga
   <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" />&nbsp;&nbsp;
   <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
   <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" />&nbsp;&nbsp;
   <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
   <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" />
 </p>
@@ -68,18 +67,6 @@ Antes da tecnologia, me formei como **Técnica em Administração** — uma baga
 ![APIs REST](https://img.shields.io/badge/APIs%20REST-6C3483?style=for-the-badge)
 ![HTTP](https://img.shields.io/badge/HTTP-B7472A?style=for-the-badge)
 ![MVC](https://img.shields.io/badge/MVC-2E4053?style=for-the-badge)
-
----
-
-## Projeto em destaque
-
-### 🪐 [Sistema Solar — POO em Java](https://github.com/luanarchaves/sistema-solar-java)
-
-Aplicação de console que modela planetas, estrelas e satélites para exercitar os pilares da Orientação a Objetos: herança, classes abstratas, polimorfismo e interfaces, sobre uma arquitetura MVC.
-
-O ponto central da modelagem é a separação em interfaces por comportamento — `Rotacao`, `Translacao`, `SuperficeRochosa` e `SuperficeGasosa` — de modo que nenhum corpo celeste carregue uma característica que não é dele.
-
-`Java 17` · `Maven` · `POO` · `MVC`
 
 ---
 
